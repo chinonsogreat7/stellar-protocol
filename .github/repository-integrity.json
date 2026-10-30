@@ -1,0 +1,6 @@
+{
+  ".github/workflows/repository-integrity.yml": "42afb9a2cffe065f25d47f8307ad4645246fd6ef9407947e8bda090e3d9f3614",
+  ".gitignore": "264f3f03116222855242e3336824c3edcb59a19c6c79c4fdfd1819e0be8ad070",
+  ".vscode/settings.json": "22dbc70f0f8ce87c04be4951f63cc47ae98e82e8b490b0a1c5aedbe3985ab473",
+  "package.json": "c853aee01f302aec204aa5efba0019c0bef2e16ebd1138bce7f553d1e70af534"
+}
